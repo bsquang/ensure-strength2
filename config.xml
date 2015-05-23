@@ -26,7 +26,6 @@
 	<preference name="webviewbounce" value="false" /> 
     
     <gap:platform name="ios" />
-	<gap:platform name="android" />
     <preference name="orientation" value="landscape" />
 	
 	<gap:splash src="Default-Landscape.png" gap:platform="ios" width="1024" height="768" />
